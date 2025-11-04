@@ -92,6 +92,24 @@ fun FirstSelectionScreen(
                     Text("SELECT To Currency", fontSize = 20.sp, color = Color.White, fontWeight = FontWeight.Bold)
                     Spacer(modifier = Modifier.height(8.dp))
                 }
+
+                // 🔹 To Currency List with unique key
+                itemsIndexed(uniqueCountries) { index, country ->
+                    val flagRes = getFlagResId(country.country.ccode)
+                    CurrencyCard(
+                        country = country,
+                        isSelected = toSelectedCode == country.country.ccode,
+                        onClick = { toSelectedCode = country.country.ccode },
+                        flagId = flagRes
+                    )
+                }
+            }
+
+            item {
+                    Spacer(modifier = Modifier.height(16.dp))
+                    Text("SELECT To Currency", fontSize = 20.sp, color = Color.White, fontWeight = FontWeight.Bold)
+                    Spacer(modifier = Modifier.height(8.dp))
+                }
                 items(countries, key = { "to_${it.country.ccode}" }) { country ->
                     val flagRes = getFlagResId(country.country.ccode)
                     CurrencyCard(
