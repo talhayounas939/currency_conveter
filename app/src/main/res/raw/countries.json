@@ -1,0 +1,1353 @@
+[
+  {
+    "id": 4,
+    "alpha2": "AF",
+    "ccode": "AFN",
+    "name_en": "Afghanistan",
+    "name_ur": "افغانستان"
+  },
+  {
+    "id": 8,
+    "alpha2": "AL",
+    "ccode": "ALL",
+    "name_en": "Albania",
+    "name_ur": "البانیا"
+  },
+  {
+    "id": 12,
+    "alpha2": "DZ",
+    "ccode": "DZD",
+    "name_en": "Algeria",
+    "name_ur": "الجزائر"
+  },
+  {
+    "id": 20,
+    "alpha2": "AD",
+    "ccode": "EUR",
+    "name_en": "Andorra",
+    "name_ur": "آندورا"
+  },
+  {
+    "id": 24,
+    "alpha2": "AO",
+    "ccode": "AOA",
+    "name_en": "Angola",
+    "name_ur": "انگولا"
+  },
+  {
+    "id": 28,
+    "alpha2": "AG",
+    "ccode": "XCD",
+    "name_en": "Antigua and Barbuda",
+    "name_ur": "انٹیگوا اور باربودا"
+  },
+  {
+    "id": 32,
+    "alpha2": "AR",
+    "ccode": "ARS",
+    "name_en": "Argentina",
+    "name_ur": "ارجنٹینا"
+  },
+  {
+    "id": 51,
+    "alpha2": "AM",
+    "ccode": "AMD",
+    "name_en": "Armenia",
+    "name_ur": "آرمینیا"
+  },
+  {
+    "id": 36,
+    "alpha2": "AU",
+    "ccode": "AUD",
+    "name_en": "Australia",
+    "name_ur": "آسٹریلیا"
+  },
+  {
+    "id": 40,
+    "alpha2": "AT",
+    "ccode": "EUR",
+    "name_en": "Austria",
+    "name_ur": "آسٹریا"
+  },
+  {
+    "id": 31,
+    "alpha2": "AZ",
+    "ccode": "AZN",
+    "name_en": "Azerbaijan",
+    "name_ur": "آذربائیجان"
+  },
+  {
+    "id": 44,
+    "alpha2": "BS",
+    "ccode": "BSD",
+    "name_en": "Bahamas",
+    "name_ur": "بہاماس"
+  },
+  {
+    "id": 48,
+    "alpha2": "BH",
+    "ccode": "BHD",
+    "name_en": "Bahrain",
+    "name_ur": "بحرین"
+  },
+  {
+    "id": 50,
+    "alpha2": "BD",
+    "ccode": "BDT",
+    "name_en": "Bangladesh",
+    "name_ur": "بنگلہ دیش"
+  },
+  {
+    "id": 52,
+    "alpha2": "BB",
+    "ccode": "BBD",
+    "name_en": "Barbados",
+    "name_ur": "بارباڈوس"
+  },
+  {
+    "id": 112,
+    "alpha2": "BY",
+    "ccode": "BYN",
+    "name_en": "Belarus",
+    "name_ur": "بیلاروس"
+  },
+  {
+    "id": 56,
+    "alpha2": "BE",
+    "ccode": "EUR",
+    "name_en": "Belgium",
+    "name_ur": "بیلجیم"
+  },
+  {
+    "id": 84,
+    "alpha2": "BZ",
+    "ccode": "BZD",
+    "name_en": "Belize",
+    "name_ur": "بیلیز"
+  },
+  {
+    "id": 204,
+    "alpha2": "BJ",
+    "ccode": "XOF",
+    "name_en": "Benin",
+    "name_ur": "بینن"
+  },
+  {
+    "id": 64,
+    "alpha2": "BT",
+    "ccode": "BTN",
+    "name_en": "Bhutan",
+    "name_ur": "بھوٹان"
+  },
+  {
+    "id": 68,
+    "alpha2": "BO",
+    "ccode": "BOB",
+    "name_en": "Bolivia",
+    "name_ur": "بولیویا"
+  },
+  {
+    "id": 70,
+    "alpha2": "BA",
+    "ccode": "BAM",
+    "name_en": "Bosnia and Herzegovina",
+    "name_ur": "بوسنیا اور ہرزیگووینا"
+  },
+  {
+    "id": 72,
+    "alpha2": "BW",
+    "ccode": "BWP",
+    "name_en": "Botswana",
+    "name_ur": "بوتسوانا"
+  },
+  {
+    "id": 76,
+    "alpha2": "BR",
+    "ccode": "BRL",
+    "name_en": "Brazil",
+    "name_ur": "برازیل"
+  },
+  {
+    "id": 96,
+    "alpha2": "BN",
+    "ccode": "BND",
+    "name_en": "Brunei",
+    "name_ur": "برونائی"
+  },
+  {
+    "id": 100,
+    "alpha2": "BG",
+    "ccode": "BGN",
+    "name_en": "Bulgaria",
+    "name_ur": "بلغاریہ"
+  },
+  {
+    "id": 854,
+    "alpha2": "BF",
+    "ccode": "XOF",
+    "name_en": "Burkina Faso",
+    "name_ur": "برکینا فاسو"
+  },
+  {
+    "id": 108,
+    "alpha2": "BI",
+    "ccode": "BIF",
+    "name_en": "Burundi",
+    "name_ur": "برونڈی"
+  },
+  {
+    "id": 132,
+    "alpha2": "CV",
+    "ccode": "CVE",
+    "name_en": "Cabo Verde",
+    "name_ur": "کیپ ورڈی"
+  },
+  {
+    "id": 116,
+    "alpha2": "KH",
+    "ccode": "KHR",
+    "name_en": "Cambodia",
+    "name_ur": "کمبوڈیا"
+  },
+  {
+    "id": 120,
+    "alpha2": "CM",
+    "ccode": "XAF",
+    "name_en": "Cameroon",
+    "name_ur": "کیمیرون"
+  },
+  {
+    "id": 124,
+    "alpha2": "CA",
+    "ccode": "CAD",
+    "name_en": "Canada",
+    "name_ur": "کینیڈا"
+  },
+  {
+    "id": 140,
+    "alpha2": "CF",
+    "ccode": "XAF",
+    "name_en": "Central African Republic",
+    "name_ur": "وسطی افریقی جمہوریہ"
+  },
+  {
+    "id": 148,
+    "alpha2": "TD",
+    "ccode": "XAF",
+    "name_en": "Chad",
+    "name_ur": "چاڈ"
+  },
+  {
+    "id": 152,
+    "alpha2": "CL",
+    "ccode": "CLP",
+    "name_en": "Chile",
+    "name_ur": "چلی"
+  },
+  {
+    "id": 156,
+    "alpha2": "CN",
+    "ccode": "CNY",
+    "name_en": "China",
+    "name_ur": "چین"
+  },
+  {
+    "id": 170,
+    "alpha2": "CO",
+    "ccode": "COP",
+    "name_en": "Colombia",
+    "name_ur": "کولمبیا"
+  },
+  {
+    "id": 174,
+    "alpha2": "KM",
+    "ccode": "KMF",
+    "name_en": "Comoros",
+    "name_ur": "کومورس"
+  },
+  {
+    "id": 178,
+    "alpha2": "CG",
+    "ccode": "XAF",
+    "name_en": "Congo",
+    "name_ur": "کانگو"
+  },
+  {
+    "id": 180,
+    "alpha2": "CD",
+    "ccode": "CDF",
+    "name_en": "Congo DR",
+    "name_ur": "کانگو ڈی آر"
+  },
+  {
+    "id": 188,
+    "alpha2": "CR",
+    "ccode": "CRC",
+    "name_en": "Costa Rica",
+    "name_ur": "کوسٹا ریکا"
+  },
+  {
+    "id": 384,
+    "alpha2": "CI",
+    "ccode": "XOF",
+    "name_en": "Côte d'Ivoire",
+    "name_ur": "کوت دیوائر"
+  },
+  {
+    "id": 191,
+    "alpha2": "HR",
+    "ccode": "HRK",
+    "name_en": "Croatia",
+    "name_ur": "کروشیا"
+  },
+  {
+    "id": 192,
+    "alpha2": "CU",
+    "ccode": "CUP",
+    "name_en": "Cuba",
+    "name_ur": "کیوبا"
+  },
+  {
+    "id": 196,
+    "alpha2": "CY",
+    "ccode": "EUR",
+    "name_en": "Cyprus",
+    "name_ur": "قبرص"
+  },
+  {
+    "id": 203,
+    "alpha2": "CZ",
+    "ccode": "CZK",
+    "name_en": "Czech Republic",
+    "name_ur": "چیک جمہوریہ"
+  },
+  {
+    "id": 208,
+    "alpha2": "DK",
+    "ccode": "DKK",
+    "name_en": "Denmark",
+    "name_ur": "ڈنمارک"
+  },
+  {
+    "id": 262,
+    "alpha2": "DJ",
+    "ccode": "DJF",
+    "name_en": "Djibouti",
+    "name_ur": "جبوتی"
+  },
+  {
+    "id": 212,
+    "alpha2": "DM",
+    "ccode": "XCD",
+    "name_en": "Dominica",
+    "name_ur": "ڈومینیکا"
+  },
+  {
+    "id": 214,
+    "alpha2": "DO",
+    "ccode": "DOP",
+    "name_en": "Dominican Republic",
+    "name_ur": "ڈومینیکن جمہوریہ"
+  },
+  {
+    "id": 218,
+    "alpha2": "EC",
+    "ccode": "USD",
+    "name_en": "Ecuador",
+    "name_ur": "ایکواڈور"
+  },
+  {
+    "id": 818,
+    "alpha2": "EG",
+    "ccode": "EGP",
+    "name_en": "Egypt",
+    "name_ur": "مصر"
+  },
+  {
+    "id": 222,
+    "alpha2": "SV",
+    "ccode": "USD",
+    "name_en": "El Salvador",
+    "name_ur": "ال سلواڈور"
+  },
+  {
+    "id": 226,
+    "alpha2": "GQ",
+    "ccode": "XAF",
+    "name_en": "Equatorial Guinea",
+    "name_ur": "استوائی گیانا"
+  },
+  {
+    "id": 232,
+    "alpha2": "ER",
+    "ccode": "ERN",
+    "name_en": "Eritrea",
+    "name_ur": "اریٹریا"
+  },
+  {
+    "id": 233,
+    "alpha2": "EE",
+    "ccode": "EUR",
+    "name_en": "Estonia",
+    "name_ur": "ایسٹونیا"
+  },
+  {
+    "id": 748,
+    "alpha2": "SZ",
+    "ccode": "SZL",
+    "name_en": "Eswatini",
+    "name_ur": "اسواتینی"
+  },
+  {
+    "id": 231,
+    "alpha2": "ET",
+    "ccode": "ETB",
+    "name_en": "Ethiopia",
+    "name_ur": "ایتھوپیا"
+  },
+  {
+    "id": 242,
+    "alpha2": "FJ",
+    "ccode": "FJD",
+    "name_en": "Fiji",
+    "name_ur": "فجی"
+  },
+  {
+    "id": 246,
+    "alpha2": "FI",
+    "ccode": "EUR",
+    "name_en": "Finland",
+    "name_ur": "فن لینڈ"
+  },
+  {
+    "id": 250,
+    "alpha2": "FR",
+    "ccode": "EUR",
+    "name_en": "France",
+    "name_ur": "فرانس"
+  },
+  {
+    "id": 266,
+    "alpha2": "GA",
+    "ccode": "XAF",
+    "name_en": "Gabon",
+    "name_ur": "گیبون"
+  },
+  {
+    "id": 270,
+    "alpha2": "GM",
+    "ccode": "GMD",
+    "name_en": "Gambia",
+    "name_ur": "گیمبیا"
+  },
+  {
+    "id": 268,
+    "alpha2": "GE",
+    "ccode": "GEL",
+    "name_en": "Georgia",
+    "name_ur": "جارجیا"
+  },
+  {
+    "id": 276,
+    "alpha2": "DE",
+    "ccode": "EUR",
+    "name_en": "Germany",
+    "name_ur": "جرمنی"
+  },
+  {
+    "id": 288,
+    "alpha2": "GH",
+    "ccode": "GHS",
+    "name_en": "Ghana",
+    "name_ur": "گھانا"
+  },
+  {
+    "id": 300,
+    "alpha2": "GR",
+    "ccode": "EUR",
+    "name_en": "Greece",
+    "name_ur": "یونان"
+  },
+  {
+    "id": 308,
+    "alpha2": "GD",
+    "ccode": "XCD",
+    "name_en": "Grenada",
+    "name_ur": "گریناڈا"
+  },
+  {
+    "id": 320,
+    "alpha2": "GT",
+    "ccode": "GTM",
+    "name_en": "Guatemala",
+    "name_ur": "گواٹے مالا"
+  },
+  {
+    "id": 324,
+    "alpha2": "GN",
+    "ccode": "GNF",
+    "name_en": "Guinea",
+    "name_ur": "گنی"
+  },
+  {
+    "id": 624,
+    "alpha2": "GW",
+    "ccode": "XOF",
+    "name_en": "Guinea-Bissau",
+    "name_ur": "گنی بساؤ"
+  },
+  {
+    "id": 328,
+    "alpha2": "GY",
+    "ccode": "GYD",
+    "name_en": "Guyana",
+    "name_ur": "گویانا"
+  },
+  {
+    "id": 332,
+    "alpha2": "HT",
+    "ccode": "HTG",
+    "name_en": "Haiti",
+    "name_ur": "ہیٹی"
+  },
+  {
+    "id": 340,
+    "alpha2": "HN",
+    "ccode": "HNL",
+    "name_en": "Honduras",
+    "name_ur": "ہونڈوراس"
+  },
+  {
+    "id": 348,
+    "alpha2": "HU",
+    "ccode": "HUF",
+    "name_en": "Hungary",
+    "name_ur": "ہنگری"
+  },
+  {
+    "id": 352,
+    "alpha2": "IS",
+    "ccode": "ISK",
+    "name_en": "Iceland",
+    "name_ur": "آئس لینڈ"
+  },
+  {
+    "id": 356,
+    "alpha2": "IN",
+    "ccode": "INR",
+    "name_en": "India",
+    "name_ur": "بھارت"
+  },
+  {
+    "id": 360,
+    "alpha2": "ID",
+    "ccode": "IDR",
+    "name_en": "Indonesia",
+    "name_ur": "انڈونیشیا"
+  },
+  {
+    "id": 364,
+    "alpha2": "IR",
+    "ccode": "IRR",
+    "name_en": "Iran",
+    "name_ur": "ایران"
+  },
+  {
+    "id": 368,
+    "alpha2": "IQ",
+    "ccode": "IQD",
+    "name_en": "Iraq",
+    "name_ur": "عراق"
+  },
+  {
+    "id": 372,
+    "alpha2": "IE",
+    "ccode": "EUR",
+    "name_en": "Ireland",
+    "name_ur": "آئرلینڈ"
+  },
+  {
+    "id": 376,
+    "alpha2": "IL",
+    "ccode": "ILS",
+    "name_en": "Israel",
+    "name_ur": "اسرائیل"
+  },
+  {
+    "id": 380,
+    "alpha2": "IT",
+    "ccode": "EUR",
+    "name_en": "Italy",
+    "name_ur": "اٹلی"
+  },
+  {
+    "id": 388,
+    "alpha2": "JM",
+    "ccode": "JMD",
+    "name_en": "Jamaica",
+    "name_ur": "جمائیکا"
+  },
+  {
+    "id": 392,
+    "alpha2": "JP",
+    "ccode": "JPY",
+    "name_en": "Japan",
+    "name_ur": "جاپان"
+  },
+  {
+    "id": 400,
+    "alpha2": "JO",
+    "ccode": "JOD",
+    "name_en": "Jordan",
+    "name_ur": "اردن"
+  },
+  {
+    "id": 398,
+    "alpha2": "KZ",
+    "ccode": "KZT",
+    "name_en": "Kazakhstan",
+    "name_ur": "قزاخستان"
+  },
+  {
+    "id": 404,
+    "alpha2": "KE",
+    "ccode": "KES",
+    "name_en": "Kenya",
+    "name_ur": "کینیا"
+  },
+  {
+    "id": 296,
+    "alpha2": "KI",
+    "ccode": "AUD",
+    "name_en": "Kiribati",
+    "name_ur": "کریباتی"
+  },
+  {
+    "id": 408,
+    "alpha2": "KP",
+    "ccode": "KPW",
+    "name_en": "North Korea",
+    "name_ur": "شمالی کوریا"
+  },
+  {
+    "id": 410,
+    "alpha2": "KR",
+    "ccode": "KRW",
+    "name_en": "South Korea",
+    "name_ur": "جنوبی کوریا"
+  },
+  {
+    "id": 414,
+    "alpha2": "KW",
+    "ccode": "KWD",
+    "name_en": "Kuwait",
+    "name_ur": "کویت"
+  },
+  {
+    "id": 417,
+    "alpha2": "KG",
+    "ccode": "KGS",
+    "name_en": "Kyrgyzstan",
+    "name_ur": "کرغیزستان"
+  },
+  {
+    "id": 418,
+    "alpha2": "LA",
+    "ccode": "LAK",
+    "name_en": "Laos",
+    "name_ur": "لاؤس"
+  },
+  {
+    "id": 428,
+    "alpha2": "LV",
+    "ccode": "EUR",
+    "name_en": "Latvia",
+    "name_ur": "لٹویا"
+  },
+  {
+    "id": 422,
+    "alpha2": "LB",
+    "ccode": "LBP",
+    "name_en": "Lebanon",
+    "name_ur": "لبنان"
+  },
+  {
+    "id": 426,
+    "alpha2": "LS",
+    "ccode": "LSL",
+    "name_en": "Lesotho",
+    "name_ur": "لیسوتھو"
+  },
+  {
+    "id": 430,
+    "alpha2": "LR",
+    "ccode": "LRD",
+    "name_en": "Liberia",
+    "name_ur": "لائبیریا"
+  },
+  {
+    "id": 434,
+    "alpha2": "LY",
+    "ccode": "LYD",
+    "name_en": "Libya",
+    "name_ur": "لیبیا"
+  },
+  {
+    "id": 438,
+    "alpha2": "LI",
+    "ccode": "CHF",
+    "name_en": "Liechtenstein",
+    "name_ur": "لیختن سٹائن"
+  },
+  {
+    "id": 440,
+    "alpha2": "LT",
+    "ccode": "EUR",
+    "name_en": "Lithuania",
+    "name_ur": "لتھوانیا"
+  },
+  {
+    "id": 442,
+    "alpha2": "LU",
+    "ccode": "EUR",
+    "name_en": "Luxembourg",
+    "name_ur": "لکسمبرگ"
+  },
+  {
+    "id": 450,
+    "alpha2": "MG",
+    "ccode": "MGA",
+    "name_en": "Madagascar",
+    "name_ur": "مڈغاسکر"
+  },
+  {
+    "id": 454,
+    "alpha2": "MW",
+    "ccode": "MWK",
+    "name_en": "Malawi",
+    "name_ur": "مالاوی"
+  },
+  {
+    "id": 458,
+    "alpha2": "MY",
+    "ccode": "MYR",
+    "name_en": "Malaysia",
+    "name_ur": "ملیشیا"
+  },
+  {
+    "id": 462,
+    "alpha2": "MV",
+    "ccode": "MVR",
+    "name_en": "Maldives",
+    "name_ur": "مالدیپ"
+  },
+  {
+    "id": 466,
+    "alpha2": "ML",
+    "ccode": "XOF",
+    "name_en": "Mali",
+    "name_ur": "مالی"
+  },
+  {
+    "id": 470,
+    "alpha2": "MT",
+    "ccode": "EUR",
+    "name_en": "Malta",
+    "name_ur": "مالٹا"
+  },
+  {
+    "id": 584,
+    "alpha2": "MH",
+    "ccode": "USD",
+    "name_en": "Marshall Islands",
+    "name_ur": "مارشل آئلینڈز"
+  },
+  {
+    "id": 478,
+    "alpha2": "MR",
+    "ccode": "MRU",
+    "name_en": "Mauritania",
+    "name_ur": "موریطانیہ"
+  },
+  {
+    "id": 480,
+    "alpha2": "MU",
+    "ccode": "MUR",
+    "name_en": "Mauritius",
+    "name_ur": "موریشس"
+  },
+  {
+    "id": 484,
+    "alpha2": "MX",
+    "ccode": "MXN",
+    "name_en": "Mexico",
+    "name_ur": "میکسیکو"
+  },
+  {
+    "id": 583,
+    "alpha2": "FM",
+    "ccode": "USD",
+    "name_en": "Micronesia",
+    "name_ur": "میکرونیشیا"
+  },
+  {
+    "id": 498,
+    "alpha2": "MD",
+    "ccode": "MDL",
+    "name_en": "Moldova",
+    "name_ur": "مالڈووا"
+  },
+  {
+    "id": 492,
+    "alpha2": "MC",
+    "ccode": "EUR",
+    "name_en": "Monaco",
+    "name_ur": "موناکو"
+  },
+  {
+    "id": 496,
+    "alpha2": "MN",
+    "ccode": "MNT",
+    "name_en": "Mongolia",
+    "name_ur": "منگولیا"
+  },
+  {
+    "id": 499,
+    "alpha2": "ME",
+    "ccode": "EUR",
+    "name_en": "Montenegro",
+    "name_ur": "مونٹے نیگرو"
+  },
+  {
+    "id": 504,
+    "alpha2": "MA",
+    "ccode": "MAD",
+    "name_en": "Morocco",
+    "name_ur": "مراکش"
+  },
+  {
+    "id": 508,
+    "alpha2": "MZ",
+    "ccode": "MZN",
+    "name_en": "Mozambique",
+    "name_ur": "موزمبیق"
+  },
+  {
+    "id": 104,
+    "alpha2": "MM",
+    "ccode": "MMK",
+    "name_en": "Myanmar",
+    "name_ur": "میانمار"
+  },
+  {
+    "id": 516,
+    "alpha2": "NA",
+    "ccode": "NAD",
+    "name_en": "Namibia",
+    "name_ur": "نامیبیا"
+  },
+  {
+    "id": 520,
+    "alpha2": "NR",
+    "ccode": "AUD",
+    "name_en": "Nauru",
+    "name_ur": "نارو"
+  },
+  {
+    "id": 524,
+    "alpha2": "NP",
+    "ccode": "NPR",
+    "name_en": "Nepal",
+    "name_ur": "نیپال"
+  },
+  {
+    "id": 528,
+    "alpha2": "NL",
+    "ccode": "EUR",
+    "name_en": "Netherlands",
+    "name_ur": "نیدرلینڈز"
+  },
+  {
+    "id": 554,
+    "alpha2": "NZ",
+    "ccode": "NZD",
+    "name_en": "New Zealand",
+    "name_ur": "نیوزی لینڈ"
+  },
+  {
+    "id": 558,
+    "alpha2": "NI",
+    "ccode": "NIO",
+    "name_en": "Nicaragua",
+    "name_ur": "نکاراگوا"
+  },
+  {
+    "id": 562,
+    "alpha2": "NE",
+    "ccode": "XOF",
+    "name_en": "Niger",
+    "name_ur": "نائجر"
+  },
+  {
+    "id": 566,
+    "alpha2": "NG",
+    "ccode": "NGN",
+    "name_en": "Nigeria",
+    "name_ur": "نائجیریا"
+  },
+  {
+    "id": 807,
+    "alpha2": "MK",
+    "ccode": "MKD",
+    "name_en": "North Macedonia",
+    "name_ur": "شمالی مقدونیہ"
+  },
+  {
+    "id": 578,
+    "alpha2": "NO",
+    "ccode": "NOK",
+    "name_en": "Norway",
+    "name_ur": "ناروے"
+  },
+  {
+    "id": 512,
+    "alpha2": "OM",
+    "ccode": "OMR",
+    "name_en": "Oman",
+    "name_ur": "عمان"
+  },
+  {
+    "id": 586,
+    "alpha2": "PK",
+    "ccode": "PKR",
+    "name_en": "Pakistan",
+    "name_ur": "پاکستان"
+  },
+  {
+    "id": 585,
+    "alpha2": "PW",
+    "ccode": "USD",
+    "name_en": "Palau",
+    "name_ur": "پالاؤ"
+  },
+  {
+    "id": 591,
+    "alpha2": "PA",
+    "ccode": "PAB",
+    "name_en": "Panama",
+    "name_ur": "پناما"
+  },
+  {
+    "id": 598,
+    "alpha2": "PG",
+    "ccode": "PGK",
+    "name_en": "Papua New Guinea",
+    "name_ur": "پاپوا نیو گنی"
+  },
+  {
+    "id": 600,
+    "alpha2": "PY",
+    "ccode": "PYG",
+    "name_en": "Paraguay",
+    "name_ur": "پیراگوے"
+  },
+  {
+    "id": 604,
+    "alpha2": "PE",
+    "ccode": "PEN",
+    "name_en": "Peru",
+    "name_ur": "پیرو"
+  },
+  {
+    "id": 608,
+    "alpha2": "PH",
+    "ccode": "PHP",
+    "name_en": "Philippines",
+    "name_ur": "فلپائن"
+  },
+  {
+    "id": 616,
+    "alpha2": "PL",
+    "ccode": "PLN",
+    "name_en": "Poland",
+    "name_ur": "پولینڈ"
+  },
+  {
+    "id": 620,
+    "alpha2": "PT",
+    "ccode": "EUR",
+    "name_en": "Portugal",
+    "name_ur": "پرتگال"
+  },
+  {
+    "id": 634,
+    "alpha2": "QA",
+    "ccode": "QAR",
+    "name_en": "Qatar",
+    "name_ur": "قطر"
+  },
+  {
+    "id": 642,
+    "alpha2": "RO",
+    "ccode": "RON",
+    "name_en": "Romania",
+    "name_ur": "رومانیہ"
+  },
+  {
+    "id": 643,
+    "alpha2": "RU",
+    "ccode": "RUB",
+    "name_en": "Russia",
+    "name_ur": "روس"
+  },
+  {
+    "id": 646,
+    "alpha2": "RW",
+    "ccode": "RWF",
+    "name_en": "Rwanda",
+    "name_ur": "روانڈا"
+  },
+  {
+    "id": 659,
+    "alpha2": "KN",
+    "ccode": "XCD",
+    "name_en": "Saint Kitts and Nevis",
+    "name_ur": "سینٹ کٹس اور نیوس"
+  },
+  {
+    "id": 662,
+    "alpha2": "LC",
+    "ccode": "XCD",
+    "name_en": "Saint Lucia",
+    "name_ur": "سینٹ لوسیا"
+  },
+  {
+    "id": 670,
+    "alpha2": "VC",
+    "ccode": "XCD",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_ur": "سینٹ ونسنٹ اور گریناڈائنز"
+  },
+  {
+    "id": 882,
+    "alpha2": "WS",
+    "ccode": "WST",
+    "name_en": "Samoa",
+    "name_ur": "ساموا"
+  },
+  {
+    "id": 674,
+    "alpha2": "SM",
+    "ccode": "EUR",
+    "name_en": "San Marino",
+    "name_ur": "سان مارینو"
+  },
+  {
+    "id": 678,
+    "alpha2": "ST",
+    "ccode": "STN",
+    "name_en": "Sao Tome and Principe",
+    "name_ur": "ساؤ ٹومے اور پرنسپے"
+  },
+  {
+    "id": 682,
+    "alpha2": "SA",
+    "ccode": "SAR",
+    "name_en": "Saudi Arabia",
+    "name_ur": "سعودی عرب"
+  },
+  {
+    "id": 686,
+    "alpha2": "SN",
+    "ccode": "XOF",
+    "name_en": "Senegal",
+    "name_ur": "سینیگل"
+  },
+  {
+    "id": 688,
+    "alpha2": "RS",
+    "ccode": "RSD",
+    "name_en": "Serbia",
+    "name_ur": "سربیا"
+  },
+  {
+    "id": 690,
+    "alpha2": "SC",
+    "ccode": "SCR",
+    "name_en": "Seychelles",
+    "name_ur": "سیچلس"
+  },
+  {
+    "id": 694,
+    "alpha2": "SL",
+    "ccode": "SLE",
+    "name_en": "Sierra Leone",
+    "name_ur": "سیئرا لیون"
+  },
+  {
+    "id": 702,
+    "alpha2": "SG",
+    "ccode": "SGD",
+    "name_en": "Singapore",
+    "name_ur": "سنگاپور"
+  },
+  {
+    "id": 703,
+    "alpha2": "SK",
+    "ccode": "EUR",
+    "name_en": "Slovakia",
+    "name_ur": "سلوواکیہ"
+  },
+  {
+    "id": 705,
+    "alpha2": "SI",
+    "ccode": "EUR",
+    "name_en": "Slovenia",
+    "name_ur": "سلووینیا"
+  },
+  {
+    "id": 90,
+    "alpha2": "SB",
+    "ccode": "SBD",
+    "name_en": "Solomon Islands",
+    "name_ur": "سولومن آئلینڈز"
+  },
+  {
+    "id": 706,
+    "alpha2": "SO",
+    "ccode": "SOS",
+    "name_en": "Somalia",
+    "name_ur": "سومالیا"
+  },
+  {
+    "id": 710,
+    "alpha2": "ZA",
+    "ccode": "ZAR",
+    "name_en": "South Africa",
+    "name_ur": "جنوبی افریقہ"
+  },
+  {
+    "id": 728,
+    "alpha2": "SS",
+    "ccode": "SSP",
+    "name_en": "South Sudan",
+    "name_ur": "جنوبی سوڈان"
+  },
+  {
+    "id": 724,
+    "alpha2": "ES",
+    "ccode": "EUR",
+    "name_en": "Spain",
+    "name_ur": "سپین"
+  },
+  {
+    "id": 144,
+    "alpha2": "LK",
+    "ccode": "LKR",
+    "name_en": "Sri Lanka",
+    "name_ur": "سری لنکا"
+  },
+  {
+    "id": 729,
+    "alpha2": "SD",
+    "ccode": "SDG",
+    "name_en": "Sudan",
+    "name_ur": "سوڈان"
+  },
+  {
+    "id": 740,
+    "alpha2": "SR",
+    "ccode": "SRD",
+    "name_en": "Suriname",
+    "name_ur": "سورینام"
+  },
+  {
+    "id": 752,
+    "alpha2": "SE",
+    "ccode": "SEK",
+    "name_en": "Sweden",
+    "name_ur": "سویڈن"
+  },
+  {
+    "id": 756,
+    "alpha2": "CH",
+    "ccode": "CHF",
+    "name_en": "Switzerland",
+    "name_ur": "سویٹزرلینڈ"
+  },
+  {
+    "id": 760,
+    "alpha2": "SY",
+    "ccode": "SYP",
+    "name_en": "Syria",
+    "name_ur": "شام"
+  },
+  {
+    "id": 762,
+    "alpha2": "TJ",
+    "ccode": "TJS",
+    "name_en": "Tajikistan",
+    "name_ur": "تاجکستان"
+  },
+  {
+    "id": 834,
+    "alpha2": "TZ",
+    "ccode": "TZS",
+    "name_en": "Tanzania",
+    "name_ur": "تنزانیہ"
+  },
+  {
+    "id": 764,
+    "alpha2": "TH",
+    "ccode": "THB",
+    "name_en": "Thailand",
+    "name_ur": "تھائی لینڈ"
+  },
+  {
+    "id": 626,
+    "alpha2": "TL",
+    "ccode": "USD",
+    "name_en": "Timor-Leste",
+    "name_ur": "تیمور-لیسٹے"
+  },
+  {
+    "id": 768,
+    "alpha2": "TG",
+    "ccode": "XOF",
+    "name_en": "Togo",
+    "name_ur": "ٹوگو"
+  },
+  {
+    "id": 776,
+    "alpha2": "TO",
+    "ccode": "TOP",
+    "name_en": "Tonga",
+    "name_ur": "ٹونگا"
+  },
+  {
+    "id": 780,
+    "alpha2": "TT",
+    "ccode": "TTD",
+    "name_en": "Trinidad and Tobago",
+    "name_ur": "ٹرینیڈاڈ اور ٹوباگو"
+  },
+  {
+    "id": 788,
+    "alpha2": "TN",
+    "ccode": "TND",
+    "name_en": "Tunisia",
+    "name_ur": "تیونیسیا"
+  },
+  {
+    "id": 792,
+    "alpha2": "TR",
+    "ccode": "TRY",
+    "name_en": "Turkey",
+    "name_ur": "ترکی"
+  },
+  {
+    "id": 795,
+    "alpha2": "TM",
+    "ccode": "TMT",
+    "name_en": "Turkmenistan",
+    "name_ur": "ترکمانستان"
+  },
+  {
+    "id": 798,
+    "alpha2": "TV",
+    "ccode": "AUD",
+    "name_en": "Tuvalu",
+    "name_ur": "ٹووالو"
+  },
+  {
+    "id": 800,
+    "alpha2": "UG",
+    "ccode": "UGX",
+    "name_en": "Uganda",
+    "name_ur": "یوگانڈا"
+  },
+  {
+    "id": 804,
+    "alpha2": "UA",
+    "ccode": "UAH",
+    "name_en": "Ukraine",
+    "name_ur": "یوکرین"
+  },
+  {
+    "id": 784,
+    "alpha2": "AE",
+    "ccode": "AED",
+    "name_en": "United Arab Emirates",
+    "name_ur": "متحدہ عرب امارات"
+  },
+  {
+    "id": 826,
+    "alpha2": "GB",
+    "ccode": "GBP",
+    "name_en": "United Kingdom",
+    "name_ur": "برطانیہ"
+  },
+  {
+    "id": 840,
+    "alpha2": "US",
+    "ccode": "USD",
+    "name_en": "United States",
+    "name_ur": "ریاستہائے متحدہ"
+  },
+  {
+    "id": 858,
+    "alpha2": "UY",
+    "ccode": "UYU",
+    "name_en": "Uruguay",
+    "name_ur": "یوراگوئے"
+  },
+  {
+    "id": 860,
+    "alpha2": "UZ",
+    "ccode": "UZS",
+    "name_en": "Uzbekistan",
+    "name_ur": "ازبکستان"
+  },
+  {
+    "id": 548,
+    "alpha2": "VU",
+    "ccode": "VUV",
+    "name_en": "Vanuatu",
+    "name_ur": "وانواتو"
+  },
+  {
+    "id": 862,
+    "alpha2": "VE",
+    "ccode": "VES",
+    "name_en": "Venezuela",
+    "name_ur": "وینزویلا"
+  },
+  {
+    "id": 704,
+    "alpha2": "VN",
+    "ccode": "VND",
+    "name_en": "Vietnam",
+    "name_ur": "ویتنام"
+  },
+  {
+    "id": 887,
+    "alpha2": "YE",
+    "ccode": "YER",
+    "name_en": "Yemen",
+    "name_ur": "یمن"
+  },
+  {
+    "id": 894,
+    "alpha2": "ZM",
+    "ccode": "ZMW",
+    "name_en": "Zambia",
+    "name_ur": "زامبیا"
+  },
+  {
+    "id": 716,
+    "alpha2": "ZW",
+    "ccode": "ZWL",
+    "name_en": "Zimbabwe",
+    "name_ur": "زمبابوے"
+  }
+]

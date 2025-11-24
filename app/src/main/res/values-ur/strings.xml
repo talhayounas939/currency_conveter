@@ -1,0 +1,23 @@
+<resources>
+    <string name="currency_converter">کرنسی کنورٹر</string>
+    <string name="tap_to_begin_your_conversion_journey">تبدیلی کا سفر شروع کرنے کے لیے ٹیپ کریں</string>
+    <string name="start">شروع کریں</string>
+    <string name="powered_by_cc_exchange">CC ایکسچینج کے ذریعے چلایا گیا - v1.00</string>
+    <string name="how_it_works">یہ کیسے کام کرتا ہے؟</string>
+    <string name="a_currency_converter_uses_exchange_rates_to_show_users_how_the_values_of_two_currencies_are_related.">کرنسی کنورٹر زری نرخوں کا استعمال کرتا ہے تاکہ صارفین دیکھ سکیں کہ دو کرنسیاں کس طرح سے ایک دوسرے سے متعلق ہیں۔</string>
+    <string name="why_choose_currency_converter">کیوں منتخب کریں کرنسی کنورٹر</string>
+    <string name="currency_converter_helps_international">کرنسی کنورٹر بین الاقوامی درآمد اور برآمد کے کاروبار میں مدد دیتا ہے، تاکہ وہ مختلف مصنوعات کے خرید و فروخت کے منافع کا تعین کر سکیں۔</string>
+    <string name="real_time">حقیقی وقت</string>
+    <string name="secure">محفوظ</string>
+    <string name="fast">تیز</string>
+    <string name="get_started"> شروع کریں</string>
+    <string name="to_start_currency_conversion">کرنسی کی تبدیلی شروع کرنے کے لیے</string>
+    <string name="select_from_currency"> کرنسی منتخب کریں</string>
+    <string name="select_to_currency">دوسری کرنسی منتخب کریں</string>
+    <string name="currencies_selected">منتخب شدہ کرنسیاں</string>
+    <string name="next">اگلا</string>
+    <string name="search_country">ملک تلاش کریں</string>
+    <string name="app_name">ملک تبدیل کرنے والا</string>
+    <string name="clear">صاف</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="tap_to_begin_your_conversion_journey">Tap to begin your\nConversion journey</string>
+    <string name="start">Start</string>
+    <string name="powered_by_cc_exchange">Powered by CC Exchange - v1.00</string>
+    <string name="how_it_works">How It Works?</string>
+    <string name="a_currency_converter_uses_exchange_rates_to_show_users_how_the_values_of_two_currencies_are_related.">"A currency converter uses exchange rates\n"
+                        "to show users how the values of\n"
+                        "two currencies are related."</string>
+    <string name="why_choose_currency_converter">Why Choose\nCurrency Converter</string>
+    <string name="currency_converter_helps_international">"Currency Converter helps international import and\nexport businesses by helping them determine the\nselling and buying profits of different products"</string>
+    <string name="real_time">Real-time</string>
+    <string name="secure">Secure</string>
+    <string name="fast">Fast</string>
+    <string name="get_started">Get Started</string>
+    <string name="to_start_currency_conversion">To Start\nCurrency Conversion</string>
+    <string name="select_from_currency">Select From Currency</string>
+    <string name="select_to_currency">Select To Currency</string>
+    <string name="currencies_selected">Currencies Selected</string>
+    <string name="next">Next</string>
+    <string name="search_country">Search Country</string>
+    <string name="app_name">Country converter</string>
+    <string name="clear">Clear</string>
+
+</resources>
